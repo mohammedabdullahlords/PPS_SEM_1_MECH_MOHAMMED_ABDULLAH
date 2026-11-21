@@ -47,8 +47,8 @@ Output: [3,4,6,16,17]
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 12.5 MB (beats 76.41%)  
-**Submitted:** 2026-11-21T05:17:04.565Z  
+**Memory:** 12.5 MB (beats 44.26%)  
+**Submitted:** 2026-11-21T05:17:11.019Z  
 
 ```cpp
 
